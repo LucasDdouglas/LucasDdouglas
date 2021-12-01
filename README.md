@@ -41,5 +41,4 @@
 
 [![Linkedin: Lucas Douglas](https://img.shields.io/badge/-LucasDouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-douglas-geraldo-5b4711218/)](https://www.linkedin.com/in/lucas-douglas-geraldo-5b4711218/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasddouglas99@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasddouglas99@gmail.com)](mailto:lucasddouglas99@gmail.com)
-[![GitHub LucasDdouglas]( https://img.shields.io/github/followers/LucasDouglas?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-
+[![GitHub LucasDdouglas]( https://img.shields.io/github/followers/LucasDouglas?label=follow&style=social)](https://github.com/LucasDdouglas)
