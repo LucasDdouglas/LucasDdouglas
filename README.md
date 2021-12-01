@@ -1,7 +1,7 @@
 
 <h3> 👦: &nbsp;Olá, me chamo Lucas Douglas, sou Desenvolvedor Front-end. </h3>
 
-- 🎓 &nbsp; Estudando Web Developer no CodeClub.
+- 🎓 &nbsp; Estudando Desenvolvimento web no CodeClub.
 - 🌱 &nbsp; Aprendendo mais sobre JavaScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -40,4 +40,4 @@
 
 [![Linkedin: Lucas Douglas](https://img.shields.io/badge/-LucasDouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-douglas-geraldo-5b4711218/)](https://www.linkedin.com/in/lucas-douglas-geraldo-5b4711218/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasddouglas99@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasddouglas99@gmail.com)](mailto:lucasddouglas99@gmail.com)
-[![GitHub LucasDdouglas]( https://img.shields.io/github/followers/LucasDouglas?label=follow&style=social)](https://github.com/LucasDdouglas)
+[![GitHub LucasDdouglas]( https://img.shields.io/github/followers/LucasDouglas?label=follow&style=social)](https://github.com/LucasDdouglas) 
