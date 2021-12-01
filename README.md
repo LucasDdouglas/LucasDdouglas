@@ -1,9 +1,8 @@
 
 <h3> 👦: &nbsp;Olá, me chamo Lucas Douglas, sou Desenvolvedor Front-end. </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Web Developer no CodeClub.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
+- 🌱 &nbsp; Aprendendo mais sobre JavaScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
